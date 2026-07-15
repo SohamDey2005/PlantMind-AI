@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.db
+
+# Virtual Environment
+venv/
+.venv/
+
+# Environment
+.env
+
+# Uploads
+backend/app/uploads/
+
+# Vector Store
+backend/app/vectorstore/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
